@@ -1,1 +1,9 @@
-create project using command @workspace /new 
+- create project using command 
+@workspace /new 
+or create using vite to get good compatibility to all libraries using vite documantation
+
+- packages fo testing - vitest , @types/jest , jsdom, @testing-library/jest-dom
+- Routing using react router dom
+- comment driven prompts for state managements for email and password and also
+for their validations
+- generating test cases after creating file "setupTests.ts" and configure it in vite.config.ts
